@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ParkingSlotBooking/static/css/main.a233bdb1.chunk.css",
+    "main.js": "/ParkingSlotBooking/static/js/main.4d32ece3.chunk.js",
+    "main.js.map": "/ParkingSlotBooking/static/js/main.4d32ece3.chunk.js.map",
+    "runtime-main.js": "/ParkingSlotBooking/static/js/runtime-main.982b67b4.js",
+    "runtime-main.js.map": "/ParkingSlotBooking/static/js/runtime-main.982b67b4.js.map",
+    "static/css/2.560b9325.chunk.css": "/ParkingSlotBooking/static/css/2.560b9325.chunk.css",
+    "static/js/2.8ad4d688.chunk.js": "/ParkingSlotBooking/static/js/2.8ad4d688.chunk.js",
+    "static/js/2.8ad4d688.chunk.js.map": "/ParkingSlotBooking/static/js/2.8ad4d688.chunk.js.map",
+    "index.html": "/ParkingSlotBooking/index.html",
+    "precache-manifest.afcb0b0034ef28fefa467b096dc25f46.js": "/ParkingSlotBooking/precache-manifest.afcb0b0034ef28fefa467b096dc25f46.js",
+    "service-worker.js": "/ParkingSlotBooking/service-worker.js",
+    "static/css/2.560b9325.chunk.css.map": "/ParkingSlotBooking/static/css/2.560b9325.chunk.css.map",
+    "static/css/main.a233bdb1.chunk.css.map": "/ParkingSlotBooking/static/css/main.a233bdb1.chunk.css.map",
+    "static/js/2.8ad4d688.chunk.js.LICENSE.txt": "/ParkingSlotBooking/static/js/2.8ad4d688.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.982b67b4.js",
+    "static/css/2.560b9325.chunk.css",
+    "static/js/2.8ad4d688.chunk.js",
+    "static/css/main.a233bdb1.chunk.css",
+    "static/js/main.4d32ece3.chunk.js"
+  ]
+}
